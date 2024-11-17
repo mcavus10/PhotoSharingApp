@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764646465650",
+    "project_id": "fotografpaylasimi-63a5a",
+    "storage_bucket": "fotografpaylasimi-63a5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764646465650:android:7db73aed055603eec222eb",
+        "android_client_info": {
+          "package_name": "com.muhammedcavus.fotografpaylasma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3AkZ0VNvsuc-Ewmjz-lxPzF30Nhycx-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
